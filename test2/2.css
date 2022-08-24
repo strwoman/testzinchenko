@@ -1,0 +1,2 @@
+p::before{content:"Начало!";color:red}
+p::after{content:"Конец!";color:green}
